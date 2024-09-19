@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://niciance.github.io/sitemap.html.gz
+Sitemap: https://niciance.github.io/app/sitemap.html.gz
+Sitemap: https://niciance.github.io/assets/sitemap.html.gz
+Sitemap: https://niciance.github.io/css/sitemap.html.gz
+Sitemap: https://niciance.github.io/data/sitemap.html.gz
+Sitemap: https://niciance.github.io/includes/sitemap.html.gz
+Sitemap: https://niciance.github.io/item/sitemap.html.gz
+Sitemap: https://niciance.github.io/src/sitemap.html.gz
